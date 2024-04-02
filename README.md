@@ -5,7 +5,7 @@
 
 ## Table of Contents
   -  [Overview](#overview)
-  -  [Usage] (#Usage)
+  -  [Usage](#Usage)
   -  [Group Members](#GroupMembers)
 
 
